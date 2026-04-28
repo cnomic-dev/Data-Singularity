@@ -43,7 +43,9 @@ Data Singularity
 核心命題：非離散（張力）與離散（H）通過投影算子 P^{-1,0,1} 因果交融交斥。守恆等式 \-1/n\_L \+ 1/n\_R \= 0 是兩者交融的不變量，是兩者交斥時的失衡指標。t \= \-1/n\_L \+ 1/n\_R 是演化的時間生成子，等效於 0點樞紐的度規曲率 1/n\_0。  
 「定位聲明：本版本（v0.1）僅作為系統之計算骨架與邏輯導引，不作為最終可驗證之數值模擬模型。」  
 **本文件為 ESP v0.1 的計算層映射，不修改任何公設。ESP v0.1 is frozen.**
-
+---
+![Data Singularity Core Topology]
+(./docs/assets/DataSingularity_v0.1_Core_Topology_20260426.png)
 ---
 
 # **一、符號規範**
