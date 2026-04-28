@@ -44,8 +44,8 @@ Data Singularity
 「定位聲明：本版本（v0.1）僅作為系統之計算骨架與邏輯導引，不作為最終可驗證之數值模擬模型。」  
 **本文件為 ESP v0.1 的計算層映射，不修改任何公設。ESP v0.1 is frozen.**
 ---
-![Data Singularity Core Topology]
-(./docs/assets/DataSingularity_v0.1_Core_Topology_20260426.png)
+<img width="13987" height="14189" alt="DataSingularity_v0 1_Core_Topology_20260426" src="https://github.com/user-attachments/assets/11004782-afef-4988-b4cc-596715023eff" />
+
 ---
 
 # **一、符號規範**
